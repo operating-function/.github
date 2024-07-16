@@ -9,4 +9,4 @@ We hypothesize that by extending typed functional programming to the entire OS e
 
 ### Contact
 
-Reach us on the [OPFN Telegram]().
+Reach us on the [OPFN Telegram](https://t.me/+ezu3AhS5JeJkZTNh).
