@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img alt="OPFN Logo" src="https://github.com/user-attachments/assets/99ef20d2-d64f-4514-90f5-3c5617a54399" width="40%">
+    <img alt="OPFN Logo" src="https://github.com/user-attachments/assets/fbfad8a9-3207-4b2f-855d-e7e16a15cba0" width="40%">
   </picture>
 </div>
 
